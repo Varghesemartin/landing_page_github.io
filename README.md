@@ -1,1 +1,1 @@
-# landing_page_github.io
+This is a Landing page that advertises a Restaurant named Resto
